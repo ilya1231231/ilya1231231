@@ -4,18 +4,18 @@
 
 ### Technology stack
 
-Back-end
-![Python](https://img.shields.io/badge/-Python-<090909>?style=for-the-badge&logo=python)
+Back-end :
+![Python](https://img.shields.io/badge/-Python-<151515>?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-<090909>?style=for-the-badge&logo=django)
 
-Frontend
-![HTML](https://img.shields.io/badge/-HTML5-<090909>?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-<090909>?style=for-the-badge&logo=CSS3)
+Frontend :
+![HTML](https://img.shields.io/badge/-HTML5-<FA5858>?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-<4000FF>?style=for-the-badge&logo=CSS3)
 
-Databases
-![SQL](https://img.shields.io/badge/-SQL-<090909>?style=for-the-badge&logo=PostgreSQL)
+Databases :
+![SQL](https://img.shields.io/badge/-SQL-<A4A4A4>?style=for-the-badge&logo=PostgreSQL)
 
-Tools
+Tools :
 ![Git](https://img.shields.io/badge/-Git-<090909>?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-<090909>?style=for-the-badge&logo=GitHub)
 
