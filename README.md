@@ -10,7 +10,7 @@ Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-<090909>?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-<090909>?style=for-the-badge&logo=CSS3)
 Databases
-![SQL](https://img.shields.io/badge/-SQL-<090909>?style=for-the-badge&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-<090909>?style=for-the-badge&logo=sql)
 Tools
 ![Git](https://img.shields.io/badge/-Git-<090909>?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-<090909>?style=for-the-badge&logo=GitHub)
