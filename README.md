@@ -13,10 +13,13 @@ Frontend :
 ![CSS](https://img.shields.io/badge/-CSS3-4000FF?style=for-the-badge&logo=CSS3)
 
 Databases :
-![SQL](https://img.shields.io/badge/-SQL-A4A4A4?style=for-the-badge&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-SQL-A4A4A4?style=for-the-badge&logo=PostgreSQL)
 
 Tools :
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+
+Learning :
+![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 ### I am currently working on "ApiMovieSite"
