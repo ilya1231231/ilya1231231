@@ -20,8 +20,9 @@ Databases :
 Tools :
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 Learning :
-![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-A4A4A4?style=for-the-badge&logo=CodeIgniter)
 
 ### I am currently working on "codeigniter"
