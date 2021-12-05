@@ -23,6 +23,6 @@ Tools :
 ![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 Learning :
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-A4A4A4?style=for-the-badge&logo=CodeIgniter)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-151515?style=for-the-badge&logo=CodeIgniter)
 
 ### I am currently working on "codeigniter"
