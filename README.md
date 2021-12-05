@@ -8,7 +8,7 @@ Back-end :
 ![Python](https://img.shields.io/badge/-Python-151515?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-<090909>?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/-DRF-FA5858?style=for-the-badge&logo=django)
-![laravel](https://img.shields.io/badge/-DRF-FA5858?style=for-the-badge&logo=laravel)
+![laravel](https://img.shields.io/badge/-laravel-4000FF?style=for-the-badge&logo=laravel)
 
 Frontend :
 ![HTML](https://img.shields.io/badge/-HTML5-FA5858?style=for-the-badge&logo=HTML5)
