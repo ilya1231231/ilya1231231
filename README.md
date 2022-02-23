@@ -25,5 +25,6 @@ Tools :
 
 Learning :
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-151515?style=for-the-badge&logo=CodeIgniter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
 
 ### I am currently working on "reactApp"
