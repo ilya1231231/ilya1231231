@@ -12,6 +12,7 @@ Back-end :
 Frontend :
 ![HTML](https://img.shields.io/badge/-HTML5-FA5858?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-4000FF?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
 
 Databases :
 ![PostgreSQL](https://img.shields.io/badge/-SQL-A4A4A4?style=for-the-badge&logo=PostgreSQL)
@@ -22,7 +23,6 @@ Tools :
 ![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 Learning :
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-151515?style=for-the-badge&logo=CodeIgniter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
+![Symfony](https://img.shields.io/badge/-Symfony-151515?style=for-the-badge&logo=Symfony)
 
 ### I am currently learning JavaScript
