@@ -24,5 +24,5 @@ Tools :
 
 Learning :
 ![Symfony](https://img.shields.io/badge/-Symfony-151515?style=for-the-badge&logo=Symfony)
+![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
 
-### I am currently learning JavaScript
