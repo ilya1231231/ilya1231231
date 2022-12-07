@@ -9,11 +9,13 @@ Back-end :
 ![laravel](https://img.shields.io/badge/-laravel-4000FF?style=for-the-badge&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-151515?style=for-the-badge&logo=CodeIgniter)
 ![PHP](https://img.shields.io/badge/-php-4000FF?style=for-the-badge&logo=php)
+![Symfony](https://img.shields.io/badge/-Symfony-151515?style=for-the-badge&logo=Symfony)
 
 Frontend :
 ![HTML](https://img.shields.io/badge/-HTML5-FA5858?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-4000FF?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
 
 Databases :
 ![PostgreSQL](https://img.shields.io/badge/-SQL-A4A4A4?style=for-the-badge&logo=PostgreSQL)
@@ -24,6 +26,4 @@ Tools :
 ![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 Learning :
-![Symfony](https://img.shields.io/badge/-Symfony-151515?style=for-the-badge&logo=Symfony)
-![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-151515?style=for-the-badge&logo=TypeScript)
