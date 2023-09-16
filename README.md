@@ -3,12 +3,9 @@
 ### Technology stack
 
 Back-end :
-![Python](https://img.shields.io/badge/-Python-151515?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-<090909>?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/-DRF-FA5858?style=for-the-badge&logo=django)
+![PHP](https://img.shields.io/badge/-php-4000FF?style=for-the-badge&logo=php)
 ![laravel](https://img.shields.io/badge/-laravel-4000FF?style=for-the-badge&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-151515?style=for-the-badge&logo=CodeIgniter)
-![PHP](https://img.shields.io/badge/-php-4000FF?style=for-the-badge&logo=php)
 ![Symfony](https://img.shields.io/badge/-Symfony-151515?style=for-the-badge&logo=Symfony)
 
 Frontend :
