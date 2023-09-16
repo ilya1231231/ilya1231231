@@ -26,4 +26,4 @@ Tools :
 ![Docker](https://img.shields.io/badge/-Docker-A4A4A4?style=for-the-badge&logo=Docker)
 
 Learning :
-![GoLang](https://img.shields.io/badge/-GoLang-151515?style=for-the-badge&logo=GoLang)
+![Go](https://img.shields.io/badge/-Go-151515?style=for-the-badge&logo=Go)
